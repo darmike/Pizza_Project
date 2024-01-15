@@ -1,2 +1,2 @@
 # Pizza_Project
-Vey tasty page(react)
+Very tasty page(react)
