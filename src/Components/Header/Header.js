@@ -3,8 +3,8 @@ import s from './header.module.css'
 function Header() {
   return (
     <div className={s.style}>
-      Hello
-      header new
+      Hello world
+      header 
     </div>
   )
 }
