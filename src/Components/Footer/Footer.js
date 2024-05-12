@@ -4,6 +4,7 @@ function Footer() {
   return (
     <div className={s.style}>
       footer
+      content
     </div>
   )
 }
